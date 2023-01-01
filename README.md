@@ -34,3 +34,7 @@ an LLM will pass the MBE component of the Bar Exam in the near future.
 * [Prompt Examples](PROMPTS.md)
 * [Example Session Log](sample_session_log.html)
 
+## Progression of Models over Time
+<picture>
+   <img src="https://github.com/mjbommar/gpt-takes-the-bar-exam/blob/main/accuracy_bar_chart_progression.png?raw=true" />
+ </picture>
