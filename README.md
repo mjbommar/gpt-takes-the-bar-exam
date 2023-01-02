@@ -3,7 +3,7 @@ GPT Takes the Bar - Supplementary Information
   * __N.B.__: This is a preprint. 
   *  __Title__: GPT Takes the Bar
   *  __Authors__: [Michael Bommarito](https://www.linkedin.com/in/bommarito/), [Daniel Martin Katz](https://www.linkedin.com/in/daniel-katz-3b001539/)
-  * __Publication URL__: [arxiv:](), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314839)
+  * __Publication URL__: [arXiv:2212.14402](https://arxiv.org/abs/2212.14402), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314839)
   * __Publication Date__: 2022-12-29
 
 ## Abstract
