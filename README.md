@@ -16,15 +16,11 @@ Nearly all jurisdictions in the United States require a professional license exa
 * [Example Session Log](sample_session_log.html)
 
 ## Progression of Models over Time
-<picture>
-   <img src="https://github.com/mjbommar/gpt-takes-the-bar-exam/blob/main/accuracy_bar_chart_progression.png?raw=true" />
- </picture>
+![Bar chart showing the progression of GPT models over time](accuracy_bar_chart_progression.png)
  
  
 ## `text-davinci-003` Performance by Question Category
-<picture>
-   <img src="https://github.com/mjbommar/gpt-takes-the-bar-exam/blob/main/accuracy_bar_chart.png?raw=true" />
- </picture>
+![Bar chart displaying performance by question category](accuracy_bar_chart.png)
  
  
  
